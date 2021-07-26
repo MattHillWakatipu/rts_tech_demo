@@ -6,7 +6,7 @@
 - [ ] Change score on screen
 - [x] Manage assets and how they are created and removed
 - [x] Move NPCs around
-- [ ] Play sounds
+- [x] Play sounds
 - [ ] Restart a level
 - [ ] Show a final screen
 - [ ] Create a settings menu with at least a slider and a toggle interaction

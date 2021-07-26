@@ -10,7 +10,7 @@
 - [ ] Restart a level
 - [ ] Show a final screen
 - [ ] Create a settings menu with at least a slider and a toggle interaction
-- [ ] Create at least one blueprint node in C++
+- [x] Create at least one blueprint node in C++
 - [ ] Make a video showing off the project
 
 

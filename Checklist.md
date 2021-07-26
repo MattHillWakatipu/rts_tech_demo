@@ -7,9 +7,9 @@
 - [x] Manage assets and how they are created and removed
 - [x] Move NPCs around
 - [x] Play sounds
-- [ ] Restart a level
-- [ ] Show a final screen
-- [ ] Create a settings menu with at least a slider and a toggle interaction
+- [x] Restart a level
+- [x] Show a final screen
+- [x] Create a settings menu with at least a slider and a toggle interaction
 - [x] Create at least one blueprint node in C++
 - [ ] Make a video showing off the project
 

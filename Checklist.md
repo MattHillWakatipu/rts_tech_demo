@@ -11,7 +11,7 @@
 - [x] Show a final screen
 - [x] Create a settings menu with at least a slider and a toggle interaction
 - [x] Create at least one blueprint node in C++
-- [ ] Make a video showing off the project
+- [x] Make a video showing off the project
 
 
 

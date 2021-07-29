@@ -1,5 +1,5 @@
 # COMP313 - Matthew Hill - Assignment 1 - rts_tech_demo
-Link to video showing the prototype/game ( approx. 4-9 mins )
+https://youtu.be/3A2NnC-7aZM
 
 ## Behaviour Trees
 Behaviour trees originated from the video game industry, as a tool to model the behaviour of NPCs but have since been used in other areas such as robotics. They are represented by a directed acyclic graph comprised of control flow nodes and execution nodes. The execution nodes are leaf nodes which simply define a task to complete, whereas the control flow nodes control which of its children should execute. Although this model is simple, it can create very complex behaviour.
